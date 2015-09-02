@@ -103,6 +103,12 @@
     - title: "The Run Loop"
       url: "run-loop"
 
+- title: "Glimmer Components"
+  url: 'glimmer-components'
+  pages:
+    - title: "Introduction"
+      url: "index"
+
 - title: "Controllers"
   url: 'controllers'
   pages:
