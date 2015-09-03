@@ -110,6 +110,8 @@
       url: "index"
     - title: "Refactoring Templates into Components"
       url: "refactoring-templates-into-components"
+    - title: "The Anatomy of a Component"
+      url: "the-anatomy-of-a-component"
 
 - title: "Controllers"
   url: 'controllers'
