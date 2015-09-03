@@ -112,6 +112,8 @@
       url: "refactoring-templates-into-components"
     - title: "The Anatomy of a Component"
       url: "the-anatomy-of-a-component"
+    - title: "Passing Data to Components"
+      url: "passing-data-to-components"
 
 - title: "Controllers"
   url: 'controllers'
