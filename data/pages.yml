@@ -108,6 +108,8 @@
   pages:
     - title: "Introduction"
       url: "index"
+    - title: "Refactoring Templates into Components"
+      url: "refactoring-templates-into-components"
 
 - title: "Controllers"
   url: 'controllers'
