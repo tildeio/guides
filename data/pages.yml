@@ -114,6 +114,8 @@
       url: "the-anatomy-of-a-component"
     - title: "Passing Data to Components"
       url: "passing-data-to-components"
+    - title: "Adding Behavior and Keeping States"
+      url: "adding-behavior-and-keeping-states"
 
 - title: "Controllers"
   url: 'controllers'
