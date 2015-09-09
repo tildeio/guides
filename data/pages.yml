@@ -116,6 +116,8 @@
       url: "passing-data-to-components"
     - title: "Adding Behavior and Keeping States"
       url: "adding-behavior-and-keeping-states"
+    - title: "Handling User Interaction"
+      url: "handling-user-interaction"
 
 - title: "Controllers"
   url: 'controllers'
